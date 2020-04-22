@@ -29,9 +29,6 @@
     .header-xs {
         text-align: center;
     } 
-    img#hidden-image {
-    	display: none;
-  }
 }
 
 .navbar-custom {
