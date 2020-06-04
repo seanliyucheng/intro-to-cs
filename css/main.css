@@ -178,24 +178,26 @@ ul {
 
 #odd_week {
     width: 15%;
-    background-color: white;
+    background-color: transparent;
     border-right: solid 2px;
     border-right-color: lightgrey;
 }
 
 #even_week {
-    background-color: white;
+    background-color: transparent;
     border-right: solid 2px;
     border-right-color: lightgrey;
 }
 
 #table_right {
+    background-color: transparent;
     border-right: solid 2px;
     border-right-color: lightgrey;
 }
 
 #middle_column {
     width: 25%;
+    background-color: transparent;
 }
 
 .table-striped>tbody>tr:nth-child(odd)>td, 
